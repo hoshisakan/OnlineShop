@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/OnlineShop/.vs/OnlineShop
+/OnlineShop/OnlineShop/obj
+/OnlineShop/OnlineShop/bin/Debug/net8.0
